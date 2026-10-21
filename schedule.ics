@@ -1666,98 +1666,77 @@ DESCRIPTION:бд26-01а
 LOCATION:ауд. 508Б
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:с/база\, Физическая культура[Лб]
+SUMMARY:[]
 DTSTART;TZID=Europe/Moscow:20261014T090000
 DTEND;TZID=Europe/Moscow:20261014T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-14-1-Физическая культура[Лб]-с/база
-DESCRIPTION:Архипова Екатерина Алексеевна
-LOCATION:ауд. с/база
+ -101-2026-10-14-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:438Б\, История России[Сем]
+SUMMARY:КонБАК\, История России[Сем]
 DTSTART;TZID=Europe/Moscow:20261014T104500
 DTEND;TZID=Europe/Moscow:20261014T121500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-14-2-История России[Сем]-438Б
+ -101-2026-10-14-2-История России[Сем]-КонБАК
 DESCRIPTION:Макарова Елена Ивановна
-LOCATION:ауд. 438Б
+LOCATION:ауд. КонБАК
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:328Б\, Правоохранительные органы[Сем]
+SUMMARY:Яндекс.Телемост\, Правоохранительны
+ е органы[Сем]
 DTSTART;TZID=Europe/Moscow:20261014T130000
 DTEND;TZID=Europe/Moscow:20261014T143000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-14-3-Правоохранительные органы[Сем
- ]-328Б
+ ]-Яндекс.Телемост
 DESCRIPTION:Романов Станислав Владимирович
-LOCATION:ауд. 328Б
+LOCATION:ауд. Яндекс.Телемост
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:вирт\, факульт.МФК[Лк]
-DTSTART;TZID=Europe/Moscow:20261014T144500
-DTEND;TZID=Europe/Moscow:20261014T161500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-14-4-факульт.МФК[Лк]-вирт
-LOCATION:ауд. вирт
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:вирт\, факульт.МФК[Лк]
-DTSTART;TZID=Europe/Moscow:20261014T163000
-DTEND;TZID=Europe/Moscow:20261014T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-14-5-факульт.МФК[Лк]-вирт
-LOCATION:ауд. вирт
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:606Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
+SUMMARY:[]
 DTSTART;TZID=Europe/Moscow:20261015T090000
 DTEND;TZID=Europe/Moscow:20261015T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-15-1-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -606Б
-DESCRIPTION:бд26-01б
-LOCATION:ауд. 606Б
+ -101-2026-10-15-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:606Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
+SUMMARY:Zoom преп.\, Английский язык\, в том чис
+ ле английский язык в сфере юриспруденци
+ и[Лб]
 DTSTART;TZID=Europe/Moscow:20261015T104500
 DTEND;TZID=Europe/Moscow:20261015T121500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-15-2-Английский язык\, в том числе а
  нглийский язык в сфере юриспруденции[Лб]
- -606Б
-DESCRIPTION:бд26-01а
-LOCATION:ауд. 606Б
+ -Zoom преп.
+DESCRIPTION:бд26-01б
+LOCATION:ауд. Zoom преп.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:412Б\, История государства и права зар
- убежных стран[Лк]
+SUMMARY:КонМ\, История государства и права з
+ арубежных стран[Лк]
 DTSTART;TZID=Europe/Moscow:20261015T130000
 DTEND;TZID=Europe/Moscow:20261015T143000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-15-3-История государства и права за
- рубежных стран[Лк]-412Б
+ рубежных стран[Лк]-КонМ
 DESCRIPTION:Томсинов Владимир Алексеевич
-LOCATION:ауд. 412Б
+LOCATION:ауд. КонМ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:512А\, История государства и права зар
  убежных стран[Сем]
 DTSTART;TZID=Europe/Moscow:20261015T144500
 DTEND;TZID=Europe/Moscow:20261015T161500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-15-4-История государства и права за
  рубежных стран[Сем]-512А
@@ -1768,7 +1747,7 @@ BEGIN:VEVENT
 SUMMARY:534Б\, Теория государства и права[Сем]
 DTSTART;TZID=Europe/Moscow:20261015T163000
 DTEND;TZID=Europe/Moscow:20261015T180000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-15-5-Теория государства и права[Сем
  ]-534Б
@@ -1776,198 +1755,123 @@ DESCRIPTION:Лубенченко Константин Дмитриевич
 LOCATION:ауд. 534Б
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:110Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
+SUMMARY:[]
 DTSTART;TZID=Europe/Moscow:20261016T090000
 DTEND;TZID=Europe/Moscow:20261016T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-16-1-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -110Б
-DESCRIPTION:бд26-01а\, бд26-01б
-LOCATION:ауд. 110Б
+ -101-2026-10-16-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:216Б\, Правоохранительные органы[Лк]
+SUMMARY:КонМ\, Правоохранительные органы[Лк]
 DTSTART;TZID=Europe/Moscow:20261016T104500
 DTEND;TZID=Europe/Moscow:20261016T121500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-16-2-Правоохранительные органы[Лк]-
- 216Б
+ КонМ
 DESCRIPTION:Романов Станислав Владимирович
-LOCATION:ауд. 216Б
+LOCATION:ауд. КонМ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:335Б\, Информационные технологии в юр
+SUMMARY:603Б\, Информационные технологии в юр
  идической деятельности[Сем]
 DTSTART;TZID=Europe/Moscow:20261016T130000
 DTEND;TZID=Europe/Moscow:20261016T143000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-16-3-Информационные технологии в ю
- ридической деятельности[Сем]-335Б
-DESCRIPTION:Марданова Галина Александровна
-LOCATION:ауд. 335Б
+ ридической деятельности[Сем]-603Б
+DESCRIPTION:Вайпан Виктор Алексеевич
+LOCATION:ауд. 603Б
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:530Б\, Русский язык и культура речи[Се
- м]
+SUMMARY:Zoom преп.\, Русский язык и культура ре
+ чи[Сем]
 DTSTART;TZID=Europe/Moscow:20261016T144500
 DTEND;TZID=Europe/Moscow:20261016T161500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-16-4-Русский язык и культура речи[С
- ем]-530Б
+ ем]-Zoom преп.
 DESCRIPTION:Яценко Ирина Иосифовна
-LOCATION:ауд. 530Б
+LOCATION:ауд. Zoom преп.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:216Б\, История России[Лк]
+SUMMARY:КонМ\, История России[Лк]
 DTSTART;TZID=Europe/Moscow:20261016T163000
 DTEND;TZID=Europe/Moscow:20261016T180000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-16-5-История России[Лк]-216Б
+ -101-2026-10-16-5-История России[Лк]-КонМ
 DESCRIPTION:Калинов Виктор Иванович
-LOCATION:ауд. 216Б
+LOCATION:ауд. КонМ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:133Б\, факульт.Латинский язык[Сем]
-DTSTART;TZID=Europe/Moscow:20261019T104500
-DTEND;TZID=Europe/Moscow:20261019T121500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261017T090000
+DTEND;TZID=Europe/Moscow:20261017T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-19-2-факульт.Латинский язык[Сем]-133Б
-DESCRIPTION:Кувшинская Ирина Владимировна
-LOCATION:ауд. 133Б
+ -101-2026-10-17-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:с/база\, Физическая культура[Лб]
-DTSTART;TZID=Europe/Moscow:20261019T130000
-DTEND;TZID=Europe/Moscow:20261019T143000
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261018T090000
+DTEND;TZID=Europe/Moscow:20261018T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-19-3-Физическая культура[Лб]-с/база
-DESCRIPTION:Архипова Екатерина Алексеевна
-LOCATION:ауд. с/база
+ -101-2026-10-18-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:412Б\, Теория государства и права[Лк]
-DTSTART;TZID=Europe/Moscow:20261019T144500
-DTEND;TZID=Europe/Moscow:20261019T161500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261019T090000
+DTEND;TZID=Europe/Moscow:20261019T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-19-4-Теория государства и права[Лк]-
- 412Б
-DESCRIPTION:Лубенченко Константин Дмитриевич
-LOCATION:ауд. 412Б
+ -101-2026-10-19-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:210Б\, Основы российской государствен
- ности[Лк]
-DTSTART;TZID=Europe/Moscow:20261019T163000
-DTEND;TZID=Europe/Moscow:20261019T180000
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261020T090000
+DTEND;TZID=Europe/Moscow:20261020T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-19-5-Основы российской государстве
- нности[Лк]-210Б
-DESCRIPTION:Гасанов Теймур Назимович
-LOCATION:ауд. 210Б
+ -101-2026-10-20-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:412Б\, История отечественного государ
- ства и права[Лк]
-DTSTART;TZID=Europe/Moscow:20261020T104500
-DTEND;TZID=Europe/Moscow:20261020T121500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-20-2-История отечественного госуда
- рства и права[Лк]-412Б
-DESCRIPTION:Полянский Павел Львович
-LOCATION:ауд. 412Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:427Б\, История отечественного государ
- ства и права[Сем]
-DTSTART;TZID=Europe/Moscow:20261020T130000
-DTEND;TZID=Europe/Moscow:20261020T143000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-20-3-История отечественного госуда
- рства и права[Сем]-427Б
-DESCRIPTION:Полянский Павел Львович
-LOCATION:ауд. 427Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:508Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
-DTSTART;TZID=Europe/Moscow:20261020T163000
-DTEND;TZID=Europe/Moscow:20261020T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-20-5-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -508Б
-DESCRIPTION:бд26-01а
-LOCATION:ауд. 508Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:с/база\, Физическая культура[Лб]
-DTSTART;TZID=Europe/Moscow:20261021T090000
-DTEND;TZID=Europe/Moscow:20261021T103000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-21-1-Физическая культура[Лб]-с/база
-DESCRIPTION:Архипова Екатерина Алексеевна
-LOCATION:ауд. с/база
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:438Б\, История России[Сем]
+SUMMARY:КонБАК\, История России[Сем]
 DTSTART;TZID=Europe/Moscow:20261021T104500
 DTEND;TZID=Europe/Moscow:20261021T121500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-21-2-История России[Сем]-438Б
+ -101-2026-10-21-2-История России[Сем]-КонБАК
 DESCRIPTION:Макарова Елена Ивановна
-LOCATION:ауд. 438Б
+LOCATION:ауд. КонБАК
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:328Б\, Правоохранительные органы[Сем]
+SUMMARY:Яндекс.Телемост\, Правоохранительны
+ е органы[Сем]
 DTSTART;TZID=Europe/Moscow:20261021T130000
 DTEND;TZID=Europe/Moscow:20261021T143000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-21-3-Правоохранительные органы[Сем
- ]-328Б
+ ]-Яндекс.Телемост
 DESCRIPTION:Романов Станислав Владимирович
-LOCATION:ауд. 328Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:вирт\, факульт.МФК[Лк]
-DTSTART;TZID=Europe/Moscow:20261021T144500
-DTEND;TZID=Europe/Moscow:20261021T161500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-21-4-факульт.МФК[Лк]-вирт
-LOCATION:ауд. вирт
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:вирт\, факульт.МФК[Лк]
-DTSTART;TZID=Europe/Moscow:20261021T163000
-DTEND;TZID=Europe/Moscow:20261021T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-21-5-факульт.МФК[Лк]-вирт
-LOCATION:ауд. вирт
+LOCATION:ауд. Яндекс.Телемост
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:606Б\, Английский язык\, в том числе ан
  глийский язык в сфере юриспруденции[Лб]
 DTSTART;TZID=Europe/Moscow:20261022T090000
 DTEND;TZID=Europe/Moscow:20261022T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-22-1-Английский язык\, в том числе а
  нглийский язык в сфере юриспруденции[Лб]
@@ -1976,24 +1880,11 @@ DESCRIPTION:бд26-01б
 LOCATION:ауд. 606Б
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:531Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
-DTSTART;TZID=Europe/Moscow:20261022T104500
-DTEND;TZID=Europe/Moscow:20261022T121500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-22-2-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -531Б
-DESCRIPTION:бд26-01б
-LOCATION:ауд. 531Б
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:606Б\, Английский язык\, в том числе ан
  глийский язык в сфере юриспруденции[Лб]
 DTSTART;TZID=Europe/Moscow:20261022T104500
 DTEND;TZID=Europe/Moscow:20261022T121500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-22-2-Английский язык\, в том числе а
  нглийский язык в сфере юриспруденции[Лб]
@@ -2002,23 +1893,37 @@ DESCRIPTION:бд26-01а
 LOCATION:ауд. 606Б
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:412Б\, История государства и права зар
- убежных стран[Лк]
+SUMMARY:Zoom преп.\, Английский язык\, в том чис
+ ле английский язык в сфере юриспруденци
+ и[Лб]
+DTSTART;TZID=Europe/Moscow:20261022T104500
+DTEND;TZID=Europe/Moscow:20261022T121500
+DTSTAMP:20261021T082137Z
+UID:law-msu-Бакалавриат (основное отделение)-1
+ -101-2026-10-22-2-Английский язык\, в том числе а
+ нглийский язык в сфере юриспруденции[Лб]
+ -Zoom преп.
+DESCRIPTION:бд26-01б
+LOCATION:ауд. Zoom преп.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КонМ\, История государства и права з
+ арубежных стран[Лк]
 DTSTART;TZID=Europe/Moscow:20261022T130000
 DTEND;TZID=Europe/Moscow:20261022T143000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-22-3-История государства и права за
- рубежных стран[Лк]-412Б
+ рубежных стран[Лк]-КонМ
 DESCRIPTION:Томсинов Владимир Алексеевич
-LOCATION:ауд. 412Б
+LOCATION:ауд. КонМ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:512А\, История государства и права зар
  убежных стран[Сем]
 DTSTART;TZID=Europe/Moscow:20261022T144500
 DTEND;TZID=Europe/Moscow:20261022T161500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-22-4-История государства и права за
  рубежных стран[Сем]-512А
@@ -2029,7 +1934,7 @@ BEGIN:VEVENT
 SUMMARY:534Б\, Теория государства и права[Сем]
 DTSTART;TZID=Europe/Moscow:20261022T163000
 DTEND;TZID=Europe/Moscow:20261022T180000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-22-5-Теория государства и права[Сем
  ]-534Б
@@ -2037,35 +1942,36 @@ DESCRIPTION:Лубенченко Константин Дмитриевич
 LOCATION:ауд. 534Б
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:110Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
+SUMMARY:Zoom преп.\, Английский язык\, в том чис
+ ле английский язык в сфере юриспруденци
+ и[Лб]
 DTSTART;TZID=Europe/Moscow:20261023T090000
 DTEND;TZID=Europe/Moscow:20261023T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-23-1-Английский язык\, в том числе а
  нглийский язык в сфере юриспруденции[Лб]
- -110Б
+ -Zoom преп.
 DESCRIPTION:бд26-01а\, бд26-01б
-LOCATION:ауд. 110Б
+LOCATION:ауд. Zoom преп.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:216Б\, Правоохранительные органы[Лк]
+SUMMARY:КонМ\, Правоохранительные органы[Лк]
 DTSTART;TZID=Europe/Moscow:20261023T104500
 DTEND;TZID=Europe/Moscow:20261023T121500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-23-2-Правоохранительные органы[Лк]-
- 216Б
+ КонМ
 DESCRIPTION:Романов Станислав Владимирович
-LOCATION:ауд. 216Б
+LOCATION:ауд. КонМ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:603Б\, Информационные технологии в юр
  идической деятельности[Сем]
 DTSTART;TZID=Europe/Moscow:20261023T130000
 DTEND;TZID=Europe/Moscow:20261023T143000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-23-3-Информационные технологии в ю
  ридической деятельности[Сем]-603Б
@@ -2073,366 +1979,133 @@ DESCRIPTION:Вайпан Виктор Алексеевич
 LOCATION:ауд. 603Б
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:530Б\, Русский язык и культура речи[Се
- м]
+SUMMARY:Zoom преп.\, Русский язык и культура ре
+ чи[Сем]
 DTSTART;TZID=Europe/Moscow:20261023T144500
 DTEND;TZID=Europe/Moscow:20261023T161500
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
  -101-2026-10-23-4-Русский язык и культура речи[С
- ем]-530Б
+ ем]-Zoom преп.
 DESCRIPTION:Яценко Ирина Иосифовна
-LOCATION:ауд. 530Б
+LOCATION:ауд. Zoom преп.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:216Б\, История России[Лк]
+SUMMARY:КонМ\, История России[Лк]
 DTSTART;TZID=Europe/Moscow:20261023T163000
 DTEND;TZID=Europe/Moscow:20261023T180000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-23-5-История России[Лк]-216Б
+ -101-2026-10-23-5-История России[Лк]-КонМ
 DESCRIPTION:Калинов Виктор Иванович
-LOCATION:ауд. 216Б
+LOCATION:ауд. КонМ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:133Б\, факульт.Латинский язык[Сем]
-DTSTART;TZID=Europe/Moscow:20261026T104500
-DTEND;TZID=Europe/Moscow:20261026T121500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261024T090000
+DTEND;TZID=Europe/Moscow:20261024T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-26-2-факульт.Латинский язык[Сем]-133Б
-DESCRIPTION:Кувшинская Ирина Владимировна
-LOCATION:ауд. 133Б
+ -101-2026-10-24-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:с/база\, Физическая культура[Лб]
-DTSTART;TZID=Europe/Moscow:20261026T130000
-DTEND;TZID=Europe/Moscow:20261026T143000
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261025T090000
+DTEND;TZID=Europe/Moscow:20261025T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-26-3-Физическая культура[Лб]-с/база
-DESCRIPTION:Архипова Екатерина Алексеевна
-LOCATION:ауд. с/база
+ -101-2026-10-25-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:412Б\, Теория государства и права[Лк]
-DTSTART;TZID=Europe/Moscow:20261026T144500
-DTEND;TZID=Europe/Moscow:20261026T161500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261026T090000
+DTEND;TZID=Europe/Moscow:20261026T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-26-4-Теория государства и права[Лк]-
- 412Б
-DESCRIPTION:Лубенченко Константин Дмитриевич
-LOCATION:ауд. 412Б
+ -101-2026-10-26-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:412Б\, История отечественного государ
- ства и права[Лк]
-DTSTART;TZID=Europe/Moscow:20261027T104500
-DTEND;TZID=Europe/Moscow:20261027T121500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261027T090000
+DTEND;TZID=Europe/Moscow:20261027T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-27-2-История отечественного госуда
- рства и права[Лк]-412Б
-DESCRIPTION:Полянский Павел Львович
-LOCATION:ауд. 412Б
+ -101-2026-10-27-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:427Б\, История отечественного государ
- ства и права[Сем]
-DTSTART;TZID=Europe/Moscow:20261027T130000
-DTEND;TZID=Europe/Moscow:20261027T143000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-27-3-История отечественного госуда
- рства и права[Сем]-427Б
-DESCRIPTION:Полянский Павел Львович
-LOCATION:ауд. 427Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:210Б\, Информационные технологии в юр
- идической деятельности[Лк]
-DTSTART;TZID=Europe/Moscow:20261027T144500
-DTEND;TZID=Europe/Moscow:20261027T161500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-27-4-Информационные технологии в ю
- ридической деятельности[Лк]-210Б
-DESCRIPTION:Северин Виталий Андреевич
-LOCATION:ауд. 210Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:508Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
-DTSTART;TZID=Europe/Moscow:20261027T163000
-DTEND;TZID=Europe/Moscow:20261027T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-27-5-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -508Б
-DESCRIPTION:бд26-01а
-LOCATION:ауд. 508Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:с/база\, Физическая культура[Лб]
+SUMMARY:[]
 DTSTART;TZID=Europe/Moscow:20261028T090000
 DTEND;TZID=Europe/Moscow:20261028T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-28-1-Физическая культура[Лб]-с/база
-DESCRIPTION:Архипова Екатерина Алексеевна
-LOCATION:ауд. с/база
+ -101-2026-10-28-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:438Б\, История России[Сем]
-DTSTART;TZID=Europe/Moscow:20261028T104500
-DTEND;TZID=Europe/Moscow:20261028T121500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-28-2-История России[Сем]-438Б
-DESCRIPTION:Макарова Елена Ивановна
-LOCATION:ауд. 438Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:328Б\, Правоохранительные органы[Сем]
-DTSTART;TZID=Europe/Moscow:20261028T130000
-DTEND;TZID=Europe/Moscow:20261028T143000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-28-3-Правоохранительные органы[Сем
- ]-328Б
-DESCRIPTION:Романов Станислав Владимирович
-LOCATION:ауд. 328Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:вирт\, факульт.МФК[Лк]
-DTSTART;TZID=Europe/Moscow:20261028T144500
-DTEND;TZID=Europe/Moscow:20261028T161500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-28-4-факульт.МФК[Лк]-вирт
-LOCATION:ауд. вирт
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:вирт\, факульт.МФК[Лк]
-DTSTART;TZID=Europe/Moscow:20261028T163000
-DTEND;TZID=Europe/Moscow:20261028T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-28-5-факульт.МФК[Лк]-вирт
-LOCATION:ауд. вирт
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:606Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
+SUMMARY:[]
 DTSTART;TZID=Europe/Moscow:20261029T090000
 DTEND;TZID=Europe/Moscow:20261029T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-29-1-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -606Б
-DESCRIPTION:бд26-01б
-LOCATION:ауд. 606Б
+ -101-2026-10-29-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:531Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
-DTSTART;TZID=Europe/Moscow:20261029T104500
-DTEND;TZID=Europe/Moscow:20261029T121500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-29-2-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -531Б
-DESCRIPTION:бд26-01б
-LOCATION:ауд. 531Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:606Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
-DTSTART;TZID=Europe/Moscow:20261029T104500
-DTEND;TZID=Europe/Moscow:20261029T121500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-29-2-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -606Б
-DESCRIPTION:бд26-01а
-LOCATION:ауд. 606Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:412Б\, История государства и права зар
- убежных стран[Лк]
-DTSTART;TZID=Europe/Moscow:20261029T130000
-DTEND;TZID=Europe/Moscow:20261029T143000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-29-3-История государства и права за
- рубежных стран[Лк]-412Б
-DESCRIPTION:Томсинов Владимир Алексеевич
-LOCATION:ауд. 412Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:512А\, История государства и права зар
- убежных стран[Сем]
-DTSTART;TZID=Europe/Moscow:20261029T144500
-DTEND;TZID=Europe/Moscow:20261029T161500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-29-4-История государства и права за
- рубежных стран[Сем]-512А
-DESCRIPTION:Томсинов Владимир Алексеевич
-LOCATION:ауд. 512А
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:534Б\, Теория государства и права[Сем]
-DTSTART;TZID=Europe/Moscow:20261029T163000
-DTEND;TZID=Europe/Moscow:20261029T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-29-5-Теория государства и права[Сем
- ]-534Б
-DESCRIPTION:Лубенченко Константин Дмитриевич
-LOCATION:ауд. 534Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:110Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
+SUMMARY:[]
 DTSTART;TZID=Europe/Moscow:20261030T090000
 DTEND;TZID=Europe/Moscow:20261030T103000
-DTSTAMP:20261020T081717Z
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-30-1-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -110Б
-DESCRIPTION:бд26-01а\, бд26-01б
-LOCATION:ауд. 110Б
+ -101-2026-10-30-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:216Б\, Правоохранительные органы[Лк]
-DTSTART;TZID=Europe/Moscow:20261030T104500
-DTEND;TZID=Europe/Moscow:20261030T121500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261031T090000
+DTEND;TZID=Europe/Moscow:20261031T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-30-2-Правоохранительные органы[Лк]-
- 216Б
-DESCRIPTION:Романов Станислав Владимирович
-LOCATION:ауд. 216Б
+ -101-2026-10-31-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:335Б\, Информационные технологии в юр
- идической деятельности[Сем]
-DTSTART;TZID=Europe/Moscow:20261030T130000
-DTEND;TZID=Europe/Moscow:20261030T143000
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261101T090000
+DTEND;TZID=Europe/Moscow:20261101T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-30-3-Информационные технологии в ю
- ридической деятельности[Сем]-335Б
-DESCRIPTION:Марданова Галина Александровна
-LOCATION:ауд. 335Б
+ -101-2026-11-01-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:530Б\, Русский язык и культура речи[Се
- м]
-DTSTART;TZID=Europe/Moscow:20261030T144500
-DTEND;TZID=Europe/Moscow:20261030T161500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261102T090000
+DTEND;TZID=Europe/Moscow:20261102T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-30-4-Русский язык и культура речи[С
- ем]-530Б
-DESCRIPTION:Яценко Ирина Иосифовна
-LOCATION:ауд. 530Б
+ -101-2026-11-02-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:216Б\, История России[Лк]
-DTSTART;TZID=Europe/Moscow:20261030T163000
-DTEND;TZID=Europe/Moscow:20261030T180000
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261103T090000
+DTEND;TZID=Europe/Moscow:20261103T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-10-30-5-История России[Лк]-216Б
-DESCRIPTION:Калинов Виктор Иванович
-LOCATION:ауд. 216Б
+ -101-2026-11-03-1-[]-
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:133Б\, факульт.Латинский язык[Сем]
-DTSTART;TZID=Europe/Moscow:20261102T104500
-DTEND;TZID=Europe/Moscow:20261102T121500
-DTSTAMP:20261020T081717Z
+SUMMARY:[]
+DTSTART;TZID=Europe/Moscow:20261104T090000
+DTEND;TZID=Europe/Moscow:20261104T103000
+DTSTAMP:20261021T082137Z
 UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-11-02-2-факульт.Латинский язык[Сем]-133Б
-DESCRIPTION:Кувшинская Ирина Владимировна
-LOCATION:ауд. 133Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:с/база\, Физическая культура[Лб]
-DTSTART;TZID=Europe/Moscow:20261102T130000
-DTEND;TZID=Europe/Moscow:20261102T143000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-11-02-3-Физическая культура[Лб]-с/база
-DESCRIPTION:Архипова Екатерина Алексеевна
-LOCATION:ауд. с/база
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:412Б\, Теория государства и права[Лк]
-DTSTART;TZID=Europe/Moscow:20261102T144500
-DTEND;TZID=Europe/Moscow:20261102T161500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-11-02-4-Теория государства и права[Лк]-
- 412Б
-DESCRIPTION:Лубенченко Константин Дмитриевич
-LOCATION:ауд. 412Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:210Б\, Основы российской государствен
- ности[Лк]
-DTSTART;TZID=Europe/Moscow:20261102T163000
-DTEND;TZID=Europe/Moscow:20261102T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-11-02-5-Основы российской государстве
- нности[Лк]-210Б
-DESCRIPTION:Патенкова Вероника Юрьевна
-LOCATION:ауд. 210Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:412Б\, История отечественного государ
- ства и права[Лк]
-DTSTART;TZID=Europe/Moscow:20261103T104500
-DTEND;TZID=Europe/Moscow:20261103T121500
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-11-03-2-История отечественного госуда
- рства и права[Лк]-412Б
-DESCRIPTION:Полянский Павел Львович
-LOCATION:ауд. 412Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:427Б\, История отечественного государ
- ства и права[Сем]
-DTSTART;TZID=Europe/Moscow:20261103T130000
-DTEND;TZID=Europe/Moscow:20261103T143000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-11-03-3-История отечественного госуда
- рства и права[Сем]-427Б
-DESCRIPTION:Полянский Павел Львович
-LOCATION:ауд. 427Б
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:508Б\, Английский язык\, в том числе ан
- глийский язык в сфере юриспруденции[Лб]
-DTSTART;TZID=Europe/Moscow:20261103T163000
-DTEND;TZID=Europe/Moscow:20261103T180000
-DTSTAMP:20261020T081717Z
-UID:law-msu-Бакалавриат (основное отделение)-1
- -101-2026-11-03-5-Английский язык\, в том числе а
- нглийский язык в сфере юриспруденции[Лб]
- -508Б
-DESCRIPTION:бд26-01а
-LOCATION:ауд. 508Б
+ -101-2026-11-04-1-[]-
+LOCATION:
 END:VEVENT
 END:VCALENDAR
